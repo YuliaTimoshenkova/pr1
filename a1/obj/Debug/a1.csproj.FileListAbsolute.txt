@@ -1,0 +1,8 @@
+c:\users\филипп\documents\visual studio 2013\Projects\a1\a1\bin\Debug\a1.exe.config
+c:\users\филипп\documents\visual studio 2013\Projects\a1\a1\bin\Debug\a1.exe
+c:\users\филипп\documents\visual studio 2013\Projects\a1\a1\bin\Debug\a1.pdb
+c:\users\филипп\documents\visual studio 2013\Projects\a1\a1\obj\Debug\a1.Form1.resources
+c:\users\филипп\documents\visual studio 2013\Projects\a1\a1\obj\Debug\a1.Properties.Resources.resources
+c:\users\филипп\documents\visual studio 2013\Projects\a1\a1\obj\Debug\a1.csproj.GenerateResource.Cache
+c:\users\филипп\documents\visual studio 2013\Projects\a1\a1\obj\Debug\a1.exe
+c:\users\филипп\documents\visual studio 2013\Projects\a1\a1\obj\Debug\a1.pdb
